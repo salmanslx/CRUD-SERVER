@@ -1,0 +1,20 @@
+{
+  "students-list": [
+    {
+      "sname": "salmanm",
+      "address": "hh",
+      "age": "12",
+      "email": "dfsa2gmail.com",
+      "phone": "765432",
+      "id": 1
+    },
+    {
+      "sname": "Ramees",
+      "address": "asdfghj",
+      "age": "23",
+      "email": "dgsw4jqwslk",
+      "phone": "345",
+      "id": 2
+    }
+  ]
+}
